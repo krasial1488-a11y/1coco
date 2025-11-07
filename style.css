@@ -1,0 +1,46 @@
+body{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Parrot.red.macaw.1.arp.750pix.jpg/330px-Parrot.red.macaw.1.arp.750pix.jpg');
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+}
+
+
+.dodoe{
+    display:flex;
+    border: 15px solid yellowgreen;
+}
+
+.dodoe:hover{
+     background-image:  linear-gradient(to bottom,yellow,blue,green,orange);
+    border: solid 15px lime;
+}
+
+a{
+    background-color: rgb(255, 109, 5);
+    color: aqua; 
+      border-radius: 50px;
+      opacity: 0.5;
+}
+
+.pico{
+justify-content:center;
+display: flex;
+}
+
+a:hover{
+    opacity: 1;
+}
+
+main{
+    text-align: center;
+    font-size: 150px;
+}
+
+footer{
+    text-align: center;
+    font-size: 150px;
+}
+
